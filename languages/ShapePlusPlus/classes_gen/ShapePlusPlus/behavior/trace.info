@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164991038168:jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,32,0" name="ShapePlusPlus.behavior.BehaviorAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:0071ca6f-124c-4a1c-92cc-087ae9562414(ShapePlusPlus.behavior)/8765610791789560366">
+    <file name="Color__BehaviorDescriptor.java">
+      <node id="8765610791789560366" at="18,0,19,0" concept="8" trace="CONCEPT" />
+      <node id="8765610791789560366" at="21,0,22,0" concept="8" trace="BH_METHODS" />
+      <node id="8765610791789560366" at="31,114,32,21" concept="1" />
+      <node id="8765610791789560366" at="36,114,37,49" concept="5" />
+      <node id="8765610791789560366" at="38,26,39,56" concept="12" />
+      <node id="8765610791789560366" at="42,14,43,58" concept="12" />
+      <node id="8765610791789560366" at="48,128,49,49" concept="5" />
+      <node id="8765610791789560366" at="50,26,51,56" concept="12" />
+      <node id="8765610791789560366" at="54,14,55,58" concept="12" />
+      <node id="8765610791789560366" at="61,48,62,22" concept="6" />
+      <node id="8765610791789560366" at="67,40,68,19" concept="6" />
+      <node id="8765610791789560366" at="23,0,25,0" concept="9" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="8765610791789560366" at="27,0,29,0" concept="0" trace="Color__BehaviorDescriptor#()V" />
+      <node id="8765610791789560366" at="37,49,40,5" concept="3" />
+      <node id="8765610791789560366" at="49,49,52,5" concept="3" />
+      <node id="8765610791789560366" at="30,0,34,0" concept="4" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="8765610791789560366" at="40,5,44,5" concept="11" />
+      <node id="8765610791789560366" at="52,5,56,5" concept="11" />
+      <node id="8765610791789560366" at="59,0,64,0" concept="4" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="8765610791789560366" at="65,0,70,0" concept="4" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="8765610791789560366" at="35,0,46,0" concept="4" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="8765610791789560366" at="47,0,58,0" concept="4" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <scope id="8765610791789560366" at="23,63,23,63" />
+      <scope id="8765610791789560366" at="27,43,27,43" />
+      <scope id="8765610791789560366" at="31,114,32,21" />
+      <scope id="8765610791789560366" at="38,26,39,56" />
+      <scope id="8765610791789560366" at="42,14,43,58" />
+      <scope id="8765610791789560366" at="50,26,51,56" />
+      <scope id="8765610791789560366" at="54,14,55,58" />
+      <scope id="8765610791789560366" at="61,48,62,22" />
+      <scope id="8765610791789560366" at="67,40,68,19" />
+      <scope id="8765610791789560366" at="23,0,25,0">
+        <var name="__thisNode__" id="8765610791789560366" />
+      </scope>
+      <scope id="8765610791789560366" at="27,0,29,0" />
+      <scope id="8765610791789560366" at="30,0,34,0">
+        <var name="constructor" id="8765610791789560366" />
+        <var name="node" id="8765610791789560366" />
+        <var name="parameters" id="8765610791789560366" />
+      </scope>
+      <scope id="8765610791789560366" at="59,0,64,0" />
+      <scope id="8765610791789560366" at="65,0,70,0" />
+      <scope id="8765610791789560366" at="36,114,44,5">
+        <var name="methodIndex" id="8765610791789560366" />
+      </scope>
+      <scope id="8765610791789560366" at="48,128,56,5">
+        <var name="methodIndex" id="8765610791789560366" />
+      </scope>
+      <scope id="8765610791789560366" at="35,0,46,0">
+        <var name="method" id="8765610791789560366" />
+        <var name="node" id="8765610791789560366" />
+        <var name="parameters" id="8765610791789560366" />
+      </scope>
+      <scope id="8765610791789560366" at="47,0,58,0">
+        <var name="concept" id="8765610791789560366" />
+        <var name="method" id="8765610791789560366" />
+        <var name="parameters" id="8765610791789560366" />
+      </scope>
+      <unit id="8765610791789560366" at="17,0,71,0" name="ShapePlusPlus.behavior.Color__BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:0071ca6f-124c-4a1c-92cc-087ae9562414(ShapePlusPlus.behavior)/8765610791789560387">
+    <file name="FontColorCellProvider.java">
+      <node id="8765610791789619697" at="19,0,20,0" concept="2" trace="node" />
+      <node id="8765610791789591009" at="21,53,22,16" concept="10" />
+      <node id="8765610791789619953" at="22,16,23,21" concept="1" />
+      <node id="8765610791789627090" at="27,61,28,85" concept="5" />
+      <node id="8765610791790207003" at="28,85,29,0" concept="7" />
+      <node id="8765610791789965435" at="29,0,30,72" concept="5" />
+      <node id="8765610791790053819" at="30,72,31,76" concept="5" />
+      <node id="8765610791790053866" at="31,76,32,74" concept="5" />
+      <node id="8765610791790257904" at="32,74,33,0" concept="7" />
+      <node id="8765610791790296151" at="33,0,34,46" concept="5" />
+      <node id="8765610791789963870" at="34,46,35,0" concept="7" />
+      <node id="8765610791789909690" at="35,0,36,59" concept="1" />
+      <node id="8765610791790419537" at="36,59,37,0" concept="7" />
+      <node id="8765610791789818129" at="37,0,38,16" concept="6" />
+      <node id="8765610791789560387" at="42,0,43,0" concept="8" trace="red$PFdp" />
+      <node id="8765610791789560387" at="43,0,44,0" concept="8" trace="green$PKAK" />
+      <node id="8765610791789560387" at="44,0,45,0" concept="8" trace="blue$PLLP" />
+      <node id="8765610791789591001" at="21,0,25,0" concept="0" trace="FontColorCellProvider#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="8765610791789591219" at="26,0,40,0" concept="4" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <scope id="8765610791789591008" at="21,53,23,21" />
+      <scope id="8765610791789591001" at="21,0,25,0">
+        <var name="node" id="8765610791789591005" />
+      </scope>
+      <scope id="8765610791789591225" at="27,61,38,16">
+        <var name="blue" id="8765610791790053867" />
+        <var name="cell" id="8765610791789627091" />
+        <var name="color" id="8765610791790296152" />
+        <var name="green" id="8765610791790053820" />
+        <var name="red" id="8765610791789965436" />
+      </scope>
+      <scope id="8765610791789591219" at="26,0,40,0">
+        <var name="context" id="8765610791789591223" />
+      </scope>
+      <unit id="8765610791789560387" at="41,0,46,0" name="ShapePlusPlus.behavior.FontColorCellProvider$PROPS" />
+      <unit id="8765610791789560387" at="17,0,47,0" name="ShapePlusPlus.behavior.FontColorCellProvider" />
+    </file>
+  </root>
+</debug-info>
+
