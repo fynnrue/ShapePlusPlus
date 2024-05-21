@@ -194,6 +194,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   private static ConceptDescriptor createDescriptorForShapeExpression() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("ShapePlusPlus", "ShapeExpression", 0x9710ea29960d4c8dL, 0xbfcbd895aec7ff5bL, 0x64516100fd628d40L);
     b.class_(false, true, false);
+    b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x33d23ee961a0cbf3L);
     b.origin("r:df2fd1a2-49c8-4cbf-9175-ec38c40d3115(ShapePlusPlus.structure)/7228665533785345344");
     b.version(3);
     return b.create();

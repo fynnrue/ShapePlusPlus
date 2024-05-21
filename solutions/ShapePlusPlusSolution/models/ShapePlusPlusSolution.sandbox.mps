@@ -71,7 +71,7 @@
           </node>
           <node concept="1Kxqch" id="7X4rfRdcefn" role="1Kxd$p">
             <node concept="1Kxdzm" id="7X4rfRdcefv" role="1KxdzB">
-              <property role="1Kxdzn" value="60" />
+              <property role="1Kxdzn" value="50" />
             </node>
           </node>
           <node concept="1Kxdzq" id="7X4rfRdcefC" role="1Kxd$p">

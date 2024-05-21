@@ -13,6 +13,7 @@ import jetbrains.mps.smodel.adapter.ids.MetaIdFactory;
 
 public final class BehaviorAspectDescriptor extends BaseBehaviorAspectDescriptor {
   private final BHDescriptor myColor__BehaviorDescriptor = new Color__BehaviorDescriptor();
+  private final BHDescriptor myShapeExpression__BehaviorDescriptor = new ShapeExpression__BehaviorDescriptor();
 
   public BehaviorAspectDescriptor() {
   }
@@ -23,9 +24,11 @@ public final class BehaviorAspectDescriptor extends BaseBehaviorAspectDescriptor
     switch (conceptIndex.index(cncpt)) {
       case 0:
         return myColor__BehaviorDescriptor;
+      case 1:
+        return myShapeExpression__BehaviorDescriptor;
       default:
     }
     return null;
   }
-  private static final ConceptSwitchIndex conceptIndex = new ConceptSwitchIndexBuilder().put(MetaIdFactory.conceptId(0x9710ea29960d4c8dL, 0xbfcbd895aec7ff5bL, 0x64516100fd618e0dL)).seal();
+  private static final ConceptSwitchIndex conceptIndex = new ConceptSwitchIndexBuilder().put(MetaIdFactory.conceptId(0x9710ea29960d4c8dL, 0xbfcbd895aec7ff5bL, 0x64516100fd618e0dL), MetaIdFactory.conceptId(0x9710ea29960d4c8dL, 0xbfcbd895aec7ff5bL, 0x64516100fd628d40L)).seal();
 }

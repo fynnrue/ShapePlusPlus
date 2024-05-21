@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<product version="3" modelHash="-cpaweqlp2i6dq3rtkey79582ur4t4az">
-  <files names="ConstraintsAspectDescriptor.java" />
+<product version="3" modelHash="-cwswhvfmkonw5ixtrx4och7n0q5wxlz">
+  <files names="Circle_Constraints.java:Color_Constraints.java:ConstraintsAspectDescriptor.java:Filling_Constraints.java:Rectangle_Constraints.java:Stroking_Constraints.java:VariableReference_Constraints.java" />
 </product>
 

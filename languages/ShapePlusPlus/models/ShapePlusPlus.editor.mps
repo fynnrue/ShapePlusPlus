@@ -81,10 +81,11 @@
     <ref role="1XX52x" to="wgmo:6hhog3XoCOM" resolve="Binding" />
     <node concept="3EZMnI" id="7A_H9aFTFYj" role="2wV5jI">
       <node concept="2iRkQZ" id="7A_H9aFTFYk" role="2iSdaV" />
-      <node concept="3F2HdR" id="7A_H9aFTzvf" role="3EZMnx">
-        <ref role="1NtTu8" to="wgmo:2C_Y1LqCi3H" resolve="declarations" />
+      <node concept="3F2HdR" id="DDtowISAOa" role="3EZMnx">
+        <ref role="1NtTu8" to="wgmo:2C_Y1LqCi3H" />
+        <node concept="2iRkQZ" id="DDtowISAOd" role="2czzBx" />
+        <node concept="VPM3Z" id="DDtowISAOe" role="3F10Kt" />
       </node>
-      <node concept="3F0ifn" id="7A_H9aFTIOT" role="3EZMnx" />
       <node concept="3F1sOY" id="7A_H9aFTFYs" role="3EZMnx">
         <ref role="1NtTu8" to="wgmo:2C_Y1LqCi3z" resolve="child" />
       </node>
@@ -242,7 +243,7 @@
         <node concept="VPM3Z" id="7A_H9aFUyCo" role="3F10Kt" />
         <node concept="3XFhqQ" id="7A_H9aFUyCy" role="3EZMnx" />
         <node concept="3F1sOY" id="7A_H9aFUyCC" role="3EZMnx">
-          <ref role="1NtTu8" to="wgmo:2C_Y1LqCi3N" resolve="shapes" />
+          <ref role="1NtTu8" to="wgmo:2C_Y1LqCi3N" />
         </node>
         <node concept="2iRfu4" id="7A_H9aFUyCr" role="2iSdaV" />
       </node>
